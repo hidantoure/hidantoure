@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hidantoure
+- 👋 Hi, I’m @hamdiZahra
 - 👀 I’m interested in Mobile Application Developpement
 
-- 📫 How to reach me ...
+- 📫 How to reach me : hamdi.ezzahra@gmail.com
 
 <!---
 hidantoure/hidantoure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
